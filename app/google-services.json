@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5335767415",
+    "firebase_url": "https://akfi-d25ae.firebaseio.com",
+    "project_id": "akfi-d25ae",
+    "storage_bucket": "akfi-d25ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5335767415:android:996e836e426c0847c06972",
+        "android_client_info": {
+          "package_name": "com.example.akfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5335767415-f9mjt441v4oh18d8ftp344gglk32fmd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCkmi_qy2dTWLJZmfsXFqXvk7G24NpXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5335767415-f9mjt441v4oh18d8ftp344gglk32fmd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
